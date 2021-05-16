@@ -1,0 +1,64 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+html {
+
+	font-size: 100%;
+	font-family: 'Times New Roman', Times, serif;
+	
+	}
+	
+.menu-container{
+	display: flex;
+	background-color: cornflowerblue;
+	flex-flow: row wrap;
+	
+	/* width: 85em;
+	height: 3em; */
+
+}
+
+
+.item-nav-small{
+margin: 1rem;
+text-decoration: none;
+color: aliceblue;
+/* padding: 1px; */
+display: flex;
+flex-flow: row wrap;
+
+
+
+
+
+}
+
+
+.pdar{
+	display: flex;
+	color: black;
+	/* width: 56em; */
+	justify-content: flex-end;
+}
+	.menu-logo{
+
+		display: flex;
+		color: black;
+		/* width: 56em; */
+		justify-content: flex-end;
+		align-items: center;
+		flex-wrap: wrap;
+		text-decoration: none; }
+
+
+		.Logo{
+			display: flex;
+			flex-flow: row wrap;
+			color: black;
+			text-decoration: none;
+			flex-flow: row wrap;
+		
+		                              }
+		
